@@ -4,11 +4,11 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Web And App Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
 - 📫 How to reach me **hashimmusaliar.s@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I code and go to the GYM very often.**
 
 - My website - https://hashimmusaliar.netlify.app/
 
@@ -47,7 +47,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 <br/>
 
 
-[![Sachin's github activity graph](https://activity-graph.herokuapp.com/graph?username=TechRhino1&theme=react-dark)](https://github.com/TechRhino1/github-readme-activity-graph)
+[![Hashim's github activity graph](https://activity-graph.herokuapp.com/graph?username=TechRhino1&theme=react-dark)](https://github.com/TechRhino1/github-readme-activity-graph)
 
 
 <br/>
