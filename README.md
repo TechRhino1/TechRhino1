@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hashim Musaliar.S</h1>
 
-<h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
+<h1 align="center"><a href="#"><img width="100" height="100" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
 ## 🙋‍♂️ About Me
 
