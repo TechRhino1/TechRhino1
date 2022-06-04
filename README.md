@@ -1,4 +1,4 @@
-### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hashim Musaliar.S</h1>
+### <h1 align="center">Hi HELLO,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Hashim Musaliar.S</h1>
 
 <h1 align="center"><a href="#"><img width="100" height="100" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
@@ -56,10 +56,10 @@ I'm a passionate Full Stack Web Developer and I am interested in developing new 
 ## Connect with me:
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/TechRhino1/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TechRhino1">
 </a>
-<a href="https://github.com/TechRhino1?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/TechRhino1?tab=followers"><img src="https://img.shields.io/github/followers/TechRhino1?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 # buy-me-a-coffee
